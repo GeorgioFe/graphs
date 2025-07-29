@@ -102,3 +102,10 @@ The `example` directory included:
 ## Summary
 
 This project gave us hands-on experience implementing graph structures and algorithms to analyze real-world network data. From shortest path computations to transmission clustering, we explored a range of core graph functionalities using a custom-built C++ class.
+
+### Resources
+
+- [**Project Workflow**](specs/project_workflow.md)
+- [**Design Notes**](specs/design_notes.md)
+- [**How to Debug**](specs/how_to_debug.md)
+- [**Common Issues**](specs/common_issues.md)
